@@ -12,6 +12,6 @@ This will compile all the java files and produce *.class* files.
 
 Now all we need to do is run:
 
-`java Main`
+`$ java Main`
 
 And that's it. 
