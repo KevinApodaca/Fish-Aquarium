@@ -1,7 +1,7 @@
 # Fish-Aquarium :fish:
 
 ## Demonstration 
-! [alternate text] (demo.gif)
+! [alternate text] (https://github.com/KevinApodaca/Fish-Aquarium/demo.gif)
 
 ## Info
 An extra credit assignment for my Advanced Object Oriented Programming class. This program implements 2D graphics to create a Fish Aquarium where a fish will be swimming around, when the fish collides with the borders it will swim around in the opposite direction. 
